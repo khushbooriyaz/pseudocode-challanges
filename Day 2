@@ -1,0 +1,8 @@
+ find_maximum(A, B, C):
+
+    if A >= B and A >= C:
+        return A
+    else if B >= A and B >= C:
+        return B
+    else:
+        return C
