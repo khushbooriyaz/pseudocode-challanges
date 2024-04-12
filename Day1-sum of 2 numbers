@@ -1,0 +1,6 @@
+Procedure
+  sum of 2 no's
+  input a
+  input b
+  print sum=(a+b)
+  end procedure
