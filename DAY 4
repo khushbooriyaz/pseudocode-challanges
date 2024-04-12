@@ -1,0 +1,7 @@
+ Start
+Declare number
+Enter a number
+Read number
+   result = calculateFactorial(number)
+   Print =The factorial of number 
+End
